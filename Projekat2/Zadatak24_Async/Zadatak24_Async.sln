@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak24_Async", "Zadatak24_Async\Zadatak24_Async.csproj", "{ED556EB7-A3DF-4FBD-922A-706BA12C3E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED556EB7-A3DF-4FBD-922A-706BA12C3E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED556EB7-A3DF-4FBD-922A-706BA12C3E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED556EB7-A3DF-4FBD-922A-706BA12C3E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED556EB7-A3DF-4FBD-922A-706BA12C3E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83D161D-A28C-4FF3-872A-43FB4908E65E}
+	EndGlobalSection
+EndGlobal
